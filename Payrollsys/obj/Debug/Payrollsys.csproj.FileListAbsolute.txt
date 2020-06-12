@@ -1,0 +1,6 @@
+C:\Users\Jayani\Desktop\git\Payrollsys\Payrollsys\bin\Debug\Payrollsys.exe.config
+C:\Users\Jayani\Desktop\git\Payrollsys\Payrollsys\obj\Debug\Payrollsys.csprojResolveAssemblyReference.cache
+C:\Users\Jayani\Desktop\git\Payrollsys\Payrollsys\bin\Debug\Payrollsys.exe
+C:\Users\Jayani\Desktop\git\Payrollsys\Payrollsys\bin\Debug\Payrollsys.pdb
+C:\Users\Jayani\Desktop\git\Payrollsys\Payrollsys\obj\Debug\Payrollsys.exe
+C:\Users\Jayani\Desktop\git\Payrollsys\Payrollsys\obj\Debug\Payrollsys.pdb
